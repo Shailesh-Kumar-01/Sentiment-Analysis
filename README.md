@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-Sentiment Analysis of Elon Musk tweets
+Sentiment Analysis on the Elon Musk tweets
